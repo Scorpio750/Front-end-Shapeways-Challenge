@@ -1,0 +1,30 @@
+#heroin {
+	color:blue;
+}
+
+#question5 {
+	margin-top: 15px;
+	background-image:url("http://upload.wikimedia.org/wikipedia/commons/6/6f/Louis-Michel_van_Loo_Princess_Ekaterina_Dmitrievna_Golitsyna.jpg");
+}
+
+.Magic_Box {
+	border:3px solid black;
+	opacity:0.5;
+	width:500px;
+	height:257px;
+	color:green;
+	background-color:beige;
+	margin-top:auto;
+	margin-bottom:auto;
+	margin:auto;
+	position:relative;
+	z-index:2;
+}
+
+.bold {
+	font-weight:bolder;
+}
+
+.instructionContent {
+	color:#383838;
+}

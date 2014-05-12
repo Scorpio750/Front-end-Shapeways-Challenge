@@ -1,3 +1,3 @@
 SHAPEWAYS CHALLENGE
 ===================
-Front-end coding challenge for Shapeways
+Coding challenge for Shapeways
